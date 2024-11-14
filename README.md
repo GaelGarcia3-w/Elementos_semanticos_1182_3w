@@ -132,6 +132,7 @@ Edgar Gael Garcia Camacho 3-W
 
 ![image](https://github.com/user-attachments/assets/212b9da7-579a-4153-afa8-ab3a39307e2a) ![image](https://github.com/user-attachments/assets/cca40213-f9dd-4be3-8329-81cfd1d16a6f)
 
+# #6
 
 
 
