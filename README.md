@@ -50,4 +50,88 @@ Edgar Gael Garcia Camacho 3-W
 
 ![image](https://github.com/user-attachments/assets/bcada869-a9ea-48c9-9c92-5c0e6dc1d8fc) ![image](https://github.com/user-attachments/assets/25d2dcdc-0215-4b5f-8f76-d558dded09a4)
 
+# #3
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+</style>
+</head>
+<body>
+
+<article class="all-browsers">
+  <h1>Las mejores Galletas del mundo.</h1>
+  <article class="browser">
+    <h2>1. Chips Ahoy! (EE.UU.)</h2>
+    <p>Las Chips Ahoy! son unas de las galletas más populares en Estados Unidos y muchas otras partes del mundo. Están hechas con trozos de chocolate y tienen una textura crujiente que encanta a muchas personas. Varias versiones, como las Chewy y las Original, ofrecen diferentes texturas y niveles de dulzura, lo que las hace irresistibles.</p>
+  </article>
+  <article class="browser">
+    <h2>2. Biscotti (Italia)</h2>
+    <p>Originarias de Italia, las galletas biscotti son conocidas por su textura crujiente y su sabor delicado. Se hacen dos veces horneadas, lo que les da una consistencia ideal para mojar en café o vino dulce (como el vin santo). Los biscotti pueden tener almendras, avellanas o incluso trozos de chocolate, lo que las hace aún más deliciosas.</p>
+  </article>
+  <article class="browser">
+    <h2>3. Oreo (EE.UU.)</h2>
+    <p>Las Oreo son quizás las galletas más famosas a nivel mundial. Con su relleno de crema entre dos galletas de chocolate, son un clásico que ha perdurado por generaciones. Son perfectas para comer solas o acompañadas de leche, y su popularidad ha llevado a infinitas variaciones, desde Oreo con diferentes rellenos hasta versiones con galletas de sabores variados</p>
+  </article>
+</article>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/f6642cac-a361-4f7d-ad38-50d6c290a09c) ![image](https://github.com/user-attachments/assets/7ddb168c-32dc-4c0e-8ee8-b08bb4eb7f49)
+
+# #4
+<!DOCTYPE html>
+<html>
+<body>
+
+<article>
+  <header>
+    <h1>Polleria el campesino</h1>
+    <p>"Pollos 100% de granja"</p>
+  </header>
+  <p>"Ven compra tu pollo para criar o para comer tu decides que hacer con el despues de su compra no nos hacemos responsables de sus acto con el pollo"</p>
+</article>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/fdb3e183-aba9-4a00-8dcf-ae3f02094afb) ![image](https://github.com/user-attachments/assets/430e2781-219c-4475-842d-71dbad963d8c)
+
+# #5
+<!DOCTYPE html>
+<html>
+<body>
+
+<footer>
+  <p>Author: Florbú</p>
+  <p><a href="https://laflorburgalesa.es/noticias/descubre-como-se-crearon-las-primeras-galletas/#:~:text=Las%20galletas%20son%20consideradas%20uno,las%20descubrieron%20por%20primera%20vez.">Creadores de las galletas</a></p>
+</footer>
+
+</body>
+</html>
+
+![image](https://github.com/user-attachments/assets/212b9da7-579a-4153-afa8-ab3a39307e2a) ![image](https://github.com/user-attachments/assets/cca40213-f9dd-4be3-8329-81cfd1d16a6f)
+
+
+
 
