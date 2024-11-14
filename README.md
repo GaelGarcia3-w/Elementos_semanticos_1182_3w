@@ -19,6 +19,9 @@ Edgar Gael Garcia Camacho 3-W
 </body>
 </html>
 
+![image](https://github.com/user-attachments/assets/48bc0edb-da69-4a05-ad48-a0bd686d5add) ![image](https://github.com/user-attachments/assets/3a72513b-97fc-43af-b3a0-0361406f5db9)
+
+
 
 # #2
 <!DOCTYPE html>
@@ -44,3 +47,7 @@ Edgar Gael Garcia Camacho 3-W
 
 </body>
 </html>
+
+![image](https://github.com/user-attachments/assets/bcada869-a9ea-48c9-9c92-5c0e6dc1d8fc) ![image](https://github.com/user-attachments/assets/25d2dcdc-0215-4b5f-8f76-d558dded09a4)
+
+
